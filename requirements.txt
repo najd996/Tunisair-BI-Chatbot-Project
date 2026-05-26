@@ -1,0 +1,48 @@
+# =========================
+# Base de données Oracle
+# =========================
+oracledb>=2.0.0
+SQLAlchemy>=2.0.0
+
+# =========================
+# Manipulation de données
+# =========================
+pandas>=2.1.0
+numpy>=1.26.0
+
+# =========================
+# Dashboard & Visualisation
+# =========================
+streamlit>=1.35.0
+altair>=5.0.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+streamlit-local-storage>=0.0.25
+
+# =========================
+# Machine Learning & NLP
+# =========================
+scikit-learn>=1.5.0
+joblib>=1.4.0
+transformers>=4.40.0
+torch>=2.2.0
+sentencepiece>=0.2.0
+
+# =========================
+# Chatbot & API
+# =========================
+openai>=1.0.0
+langchain>=0.1.0
+fastapi>=0.115.0
+uvicorn>=0.30.0
+pydantic>=2.7.0
+
+# =========================
+# Configuration & sécurité
+# =========================
+python-dotenv>=1.0.0
+
+# =========================
+# Requêtes HTTP
+# =========================
+requests>=2.31.0
