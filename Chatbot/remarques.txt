@@ -1,0 +1,7 @@
+*JSON ili yraj3ou l back intégré jawou behi fel front b nafs l asemi (resultat,reponse,...)
+
+*ken l LLM ma yrajaach resultat bch naamlou beha chart w yraja3 ken reponse 7ot el resultat="none" kima 3amel ena fel fake_api
+
+*les nombres ili yarj3ou fel resultat 5demt behom 3la ases ya "int" ya "float" donc kenhom "string" badalhom
+
+*ma tansech tguid l cors lhob

@@ -1,0 +1,13 @@
+# Python (Chatbot)
+__pycache__/
+*.pyc
+.env
+
+# QlikView (Fichiers temporaires ou logs)
+*.log
+*.meta
+*.shared
+
+# Talend & Général
+*.tmp
+.DS_Store
